@@ -21,8 +21,14 @@ issues have been listed here.
 
 #. Wifi/Network icon at system tray is invisible(not missing) ::
 
-	Click on the empty space next to battery icon and select any available network
-	and attempt to connect. Once connected, the network icon will appear from next boots
+	In '/etc/network/interfaces' comment out all lines and add the following
+
+	auto lo
+        iface lo inet loopback
+
+	Save and exit.
+
+	sudo service networking restart
 
 #. HDMI not working::
 
