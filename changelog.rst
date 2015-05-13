@@ -81,5 +81,3 @@ Build-4 (28 Jan 2015)
 
 * Recording through microphone is possible
 
-
-

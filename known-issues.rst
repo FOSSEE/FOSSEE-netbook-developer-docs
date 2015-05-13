@@ -39,10 +39,6 @@ issues have been listed here.
 
 	Webcam device drivers are not installed
 
-#. Bluetooth mouse and keyboard are working but doesn't show up in the list
-   of devices::
-
-	True. It has least priority for now. But we will definitely address this issue
 
 #. Video playback in fullscreen looses frames and its slow::
 
