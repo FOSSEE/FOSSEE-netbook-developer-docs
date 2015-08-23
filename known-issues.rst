@@ -1,6 +1,8 @@
 Known Issues
 ============
 
+Look for FAQs at http://laptop.fossee.in/faqs
+
 The netbook Kernel is under rapid development. Few of the identified
 issues have been listed here.
 

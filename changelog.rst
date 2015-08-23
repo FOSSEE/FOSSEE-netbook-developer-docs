@@ -1,6 +1,8 @@
 Changelog
 =========
 
+For more recent build information please look into this `document <https://docs.google.com/document/d/1GlHxnGjXo6N6AGHT71RDXDJRNaxNlgMYgO73MSdbtoo/edit?usp=sharing>`_
+
 Build-1 (7 Oct 2014)
 --------------------
 
